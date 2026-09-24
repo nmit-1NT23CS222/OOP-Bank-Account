@@ -1,0 +1,5 @@
+Account_Number,Holder_Name,Type,Amount,Balance_After,Timestamp
+ACC1001,Shifa,Deposit,1500,6500.0,Sample Timestamp
+ACC1001,Shifa,Withdrawal,700,5800.0,Sample Timestamp
+ACC1001,Shifa,Withdrawal,300,5500.0,Sample Timestamp
+ACC1001,Shifa,Deposit,2000,7500.0,Sample Timestamp
